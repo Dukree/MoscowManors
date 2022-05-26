@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.max.moscowmanors.ui.MainActivity">
+
+    <!--<item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom|withText"/> -->
+    <item
+        android:id="@+id/privacy_policy"
+        android:title="Политика конфиденциальности"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/feedback"
+        android:title="Обратная связь"
+        app:showAsAction="never"/>
+</menu>

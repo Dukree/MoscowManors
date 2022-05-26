@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/drawable/colored_borders.xml" value="0.1555" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/drawable/coloredborders.xml" value="0.31851851851851853" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/drawable/ic_search.xml" value="0.1965" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/drawable/splash_screen.xml" value="0.248" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/drawable/splashscreen.xml" value="0.248" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/font/montserrat.xml" value="0.396875" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_altufievo.xml" value="0.19293478260869565" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_bratsevo.xml" value="0.18860244233378562" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_bt_nav.xml" value="0.36231884057971014" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_feedback.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_main.xml" value="0.30914368650217705" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_moscow.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_privacy_policy.xml" value="0.33" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_privacy_policy_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_suburb_moscow.xml" value="0.2717391304347826" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/activity_tabbed.xml" value="0.3632246376811594" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/fragment_blank.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/fragment_maps.xml" value="0.3432971014492754" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/fragment_moscow.xml" value="0.33" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/fragment_suburb_moscow.xml" value="0.33" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/fragment_tabbed.xml" value="0.3632246376811594" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/list_item_view.xml" value="0.33" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/manors_details.xml" value="0.33" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/layout/privacy_police_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/menu/bottom_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.33" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/menu/bottom_navigations.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/menu/nav_menu.xml" value="0.6628352490421456" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/mipmap-anydpi-v26/ic_launcher..xml" value="0.1" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/mipmap-anydpi-v26/ic_launcher.webp.xml" value="0.1965" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.248" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.248" />
+        <entry key="..\:/AndroidStudios/AndroidProject/MoscowManors/app/src/main/res/xml/strings.xml" value="0.2717391304347826" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
